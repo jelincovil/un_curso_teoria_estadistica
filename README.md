@@ -1,4 +1,4 @@
-# Teoría Estadística
+# Teoría Estadística (UNI Perú)
 
 ## SUMILLA DEL CURSO
 

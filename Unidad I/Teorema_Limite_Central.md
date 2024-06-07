@@ -5,11 +5,11 @@ con
 
 $$ 
 0< s_{n}^2= Var (\sum_{j=1}^{n} X_{j})<\infty \quad y \quad E(X_i) < \infty
-$$. 
+$$
 
 Si
 $$
- \sum_{j=1}^{n} E[(X_{j}-E X_{j} )^2 I_{{|X_{j}-E X_{j }|>\epsilon s_n\}}]=o(s_n^2)
+ \sum_{j=1}^{n} E[(X_{j}-E X_{j} )^2 I_{\{|X_{j}-E X_{j }|>\epsilon s_n\}}]=o(s_n^2)
 $$
 
 para cualquier $\epsilon>0$, entonces

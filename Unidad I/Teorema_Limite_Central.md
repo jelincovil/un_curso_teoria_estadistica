@@ -1,7 +1,7 @@
 # Ejemplo en R demostrando el Teorema del Limite Central
 
-**Teorema 9. T. del Límite Central (TLC) de Lindeberg.** Sea $\left\{X_{n} \right\}$ variables aleatorias independientes
-con $0<s_n^2=\operatorname{Var} (\sum_{j=1}^{n} X_{j})<\infty$ y $E(X_i) < \infty$. Si
+**Teorema 9. T. del Límite Central (TLC) de Lindeberg.** Sea $\{X_{n} \}$ variables aleatorias independientes
+con $0<s_n^2= Var (\sum_{j=1}^{n} X_{j})<\infty$ y $E(X_i) < \infty$. Si
 
 $$
 \mbox{ { [Condición de Lindebeg] } \sum_{j=1}^{n} E[(X_{j}-E X_{j} )^2 I_{{|X_{j}-E X_{j }|>\epsilon s_n\}}]=o(s_n^2)

@@ -4,7 +4,7 @@
 con 
 
 $$ 
-0< s_{N}^2= Var (\sum_{j=1}^{n} X_{j})<\infty$ y $E(X_i) < \infty
+0< s_{n}^2= Var (\sum_{j=1}^{n} X_{j})<\infty \quad y \quad E(X_i) < \infty
 $$. 
 
 Si

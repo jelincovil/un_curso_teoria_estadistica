@@ -1,5 +1,5 @@
 # Teoría Estadística Avanzada 
-(Posgrado UNI Perú)[https://fieecs.uni.edu.pe/wp-content/uploads/2025/03/Brochure-Doctorado-en-Ciencias-e-Ingenieria-Estadistica-2025-UNI.pdf]
+[Posgrado UNI Perú]([https://fieecs.uni.edu.pe/wp-content/uploads/2025/03/Brochure-Doctorado-en-Ciencias-e-Ingenieria-Estadistica-2025-UNI.pdf)
 
 ## SUMILLA DEL CURSO
 
@@ -24,7 +24,7 @@ Al final del curso el estudiante tendrá las siguientes competencias:
 
 ### Referencias
  
-- Pereira C. (1993). Teoría Estadística. Monografias do IMPA, Rio de Janeiro. Disponible online: \url{https://impa.br/wp-content/uploads/2017/04/19_CBM_93_08.pdf}
+- Pereira C. (1993). Teoría Estadística. Monografias do IMPA, Rio de Janeiro. [Disponible online:](https://impa.br/wp-content/uploads/2017/04/19_CBM_93_08.pdf)
 - Rincón, L. (2019). Una introducción a la estadística inferencial. México: Las prensas de Ciencia.
 - Roussas, G. G. (1997). A course in mathematical statistics. Elsevier.
 - Sen, P. K., \& Singer, J. M. (2017). Large sample methods in statistics (1994): An introduction with applications. CRC press.

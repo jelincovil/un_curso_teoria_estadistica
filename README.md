@@ -1,6 +1,6 @@
 # Teoría Estadística Avanzada 
 
-[Posgrado UNI Perú]([https://fieecs.uni.edu.pe/wp-content/uploads/2025/03/Brochure-Doctorado-en-Ciencias-e-Ingenieria-Estadistica-2025-UNI.pdf)
+[Posgrado UNI Perú](https://fieecs.uni.edu.pe/wp-content/uploads/2025/03/Brochure-Doctorado-en-Ciencias-e-Ingenieria-Estadistica-2025-UNI.pdf)
 
 ## SUMILLA DEL CURSO
 
